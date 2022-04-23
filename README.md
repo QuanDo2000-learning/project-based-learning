@@ -1,6 +1,6 @@
 # Project Based Learning
 
-A list of projects/tutorials worked on following the main repository [project-based-tutorial](https://github.com/practical-tutorials/project-based-learning)
+A list of projects/tutorials worked on following the repository [project-based-tutorial](https://github.com/practical-tutorials/project-based-learning)
 
 - [x] [Build an Interpreter](http://www.craftinginterpreters.com/)
   - Languages: C, Java
